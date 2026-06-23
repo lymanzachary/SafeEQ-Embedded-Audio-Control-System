@@ -6,7 +6,11 @@ Safe EQ is an embedded audio control system prototype designed to monitor audio 
 
 This system was developed as a senior electrical engineering project at the University of California, Riverside. The prototype used MEMS microphones, microcontroller-based sensing, and external processing hardware to support real-time monitoring, threshold detection, and dynamic gain control.
 
-This repository is a public portfolio version of the project and is intended to show the embedded hardware, control logic, testing, and system integration work behind the prototype.
+This repository is a public portfolio version of the project and is intended to show the embedded hardware, control logic, testing, and system integration work behind the prototype. 
+
+A full technical report for the SAFE EQ project is available here:
+
+[Safe EQ Technical Report] (docs/SafeEQ_Technical_Report.pdf)
 
 ## Hardware Used
 
